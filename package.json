@@ -1,0 +1,14 @@
+{
+  "name": "vanilla-jest",
+  "version": "1.0.0",
+  "description": "Using Jest with Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abayev Arslan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
